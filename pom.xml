@@ -20,7 +20,6 @@
 
   <modules>
     <module>tavall-ai-core</module>
-    <module>tavall-ai-spring-webview</module>
     <module>tavall-ai-clean-java-mcp</module>
     <module>tavall-ai-clean-java-harness</module>
     <module>tavall-ai-artifact-tools</module>
@@ -144,4 +143,3 @@
     </profile>
   </profiles>
 </project>
-
